@@ -32,7 +32,7 @@ staff.close
                                               
 start = True
 while start:
-    print('''    WEMA BANK    ''')
+    print('''    SNBANK    ''')
  
     choice = int(input('(1)To login\n(2)To close app\n--> '))
     print()
